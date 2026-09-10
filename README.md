@@ -6,9 +6,15 @@ O objetivo deste repositório é construir uma base sólida em arquitetura de si
 
 ---
 
+## Estado Atual do Projeto
+* **Primeiros Passos:** Criação de estrutura base de Nodes em Python (`rclpy`) e configuração do ambiente de desenvolvimento local integrado ao Git/GitHub.
+
+---
+
 ## Trilha de Desenvolvimento & Roadmap
 
 ### 1. Comunicação Distribuída & Middleware
+* [x] Arquitetura ROS 2 e conceitos fundamentais de Nodes
 * [ ] Arquitetura ROS 2 e DDS (Data Distribution Service)
 * [ ] Implementação de Nodes, Publishers e Subscribers (C++20 / Python 3)
 * [ ] Comunicação Síncrona: Client/Server com Services
